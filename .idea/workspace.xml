@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afee4875-9be3-4eca-b7a3-adfc28a81eca" name="Changes" comment="" />
+    <list default="true" id="afee4875-9be3-4eca-b7a3-adfc28a81eca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Camisa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Camisa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Pantalon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Pantalon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Ropa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Ropa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Zapatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Zapatos.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2aBL5Tx15yRnMdcGFQ9n3PcCYRh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +29,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jose moreno/Documents/FaleteRusso/Dic28Lombok/src/main/java/com/corenetworks/modelo"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jose moreno\Documents\FaleteRusso\Dic28Lombok\src\main\java\com\corenetworks\modelo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.corenetworks.modelo" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
